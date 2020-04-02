@@ -21,7 +21,7 @@
 </p>
 <p align="center">
     <a href="https://pypi.org/project/pyDeeplator">
-        <img src="https://img.shields.io/pypi/format/pyecharts.svg" alt="PyPI - Format">
+        <img src="https://img.shields.io/pypi/format/pyDeeplator.svg" alt="PyPI - Format">
     </a>
      <a href="https://github.com/sunhailin-Leo/deepL-translator-api/pulls">
         <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
