@@ -2,6 +2,34 @@
 <p align="center">
     <em>Maybe is the best unofficial api of DeepL.</em>
 </p>
+<p align="center">
+    <a href="https://travis-ci.org/sunhailin-Leo/deepL-translator-api">
+        <img src="https://travis-ci.org/sunhailin-Leo/deepL-translator-api.svg?branch=master" alt="Travis Build Status">
+    </a>
+    <a href="https://ci.appveyor.com/project/sunhailin-Leo/deepL-translator-api">
+        <img src="https://ci.appveyor.com/api/projects/status/qj813w78p562bqmu/branch/master?svg=true" alt="Appveyor Build Status">
+    </a>
+    <a href="https://codecov.io/gh/sunhailin-Leo/pyDeeplator">
+        <img src="https://codecov.io/gh/sunhailin-Leo/pyDeeplator/branch/master/graph/badge.svg" alt="Codecov">
+    </a>
+    <a href="https://badge.fury.io/py/pyDeeplator">
+        <img src="https://badge.fury.io/py/pyDeeplator.svg" alt="Package version">
+    </a>
+    <a href="https://pypi.org/project/pyDeeplator/">
+        <img src="https://img.shields.io/pypi/pyversions/pyecharts.svg?colorB=brightgreen" alt="PyPI - Python Version">
+    </a>
+</p>
+<p align="center">
+    <a href="https://pypi.org/project/pyDeeplator">
+        <img src="https://img.shields.io/pypi/format/pyecharts.svg" alt="PyPI - Format">
+    </a>
+     <a href="https://github.com/sunhailin-Leo/deepL-translator-api/pulls">
+        <img src="https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat" alt="Contributions welcome">
+    </a>
+    <a href="https://opensource.org/licenses/MIT">
+        <img src="https://img.shields.io/badge/License-MIT-brightgreen.svg" alt="License">
+    </a>
+</p>
 
 ## 📣 简介
 
