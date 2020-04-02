@@ -16,7 +16,7 @@
         <img src="https://badge.fury.io/py/pyDeeplator.svg" alt="Package version">
     </a>
     <a href="https://pypi.org/project/pyDeeplator/">
-        <img src="https://img.shields.io/pypi/pyversions/pyecharts.svg?colorB=brightgreen" alt="PyPI - Python Version">
+        <img src="https://img.shields.io/pypi/pyversions/pyDeeplator.svg?colorB=brightgreen" alt="PyPI - Python Version">
     </a>
 </p>
 <p align="center">
