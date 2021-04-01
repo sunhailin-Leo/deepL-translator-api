@@ -193,7 +193,7 @@ class _DeepLTranslatorEngine:
         resp = requests.post(
             url=EngineEnum.API_URL,
             headers=EngineEnum.API_DEFAULT_HEADERS,
-            data=json.dumps(request_data),
+            json=request_data,
         )
         if resp.status_code != http.HTTPStatus.OK:
             raise Exception("API 不可用!")
